@@ -1,0 +1,4 @@
+UX DESING - Responsável por pesquisar e criar o prototipo de acordo com o público alvo daquele programa
+UI DESING - Responsável por desenhar o Layout, cores e tipográfia do programa.
+FRONT END - Responsável por desenvolver a interface gráfica por meio de códigos ou seja, a parte visual do app
+EX: de programas utilizados pelo Frontend: JAVASCRIP, HTML e CSS)
