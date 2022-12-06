@@ -1,1 +1,18 @@
+MKDIR "nome da pasta" - Criar nova pasta no diretório
+DIR - Listar pasta do Diretório
+Cntr L - Limpar git bash
+ECHO > "Nome do Arquivo" criar arquivo
+GIT STATUS - Ver como está o status dos documentos/alterações realizadas
+GIT ADD * ou . - Incluir os documentos/alterações realizadas Todas
+GIT ADD "MEU_ARQUIVO.TXT" - Incluir os documentos/alterações realizadas Arquivo Especifico
+GIT ADD "MEU_DIRETORIO" - Incluir os documentos/alterações realizadas Diretorio Especifico
+GIT Commit -m "Descrever o comando que pretende comitar"
+GIT PUSH ORIGIN MAIN - Empurrar os commites para a nuvem (GITHUB)
+GIT INIT - Criar novo repositório
+GIT RM "MEU ARQUIVO.TXT" - Remover Arquivo
+GIT RM -r Diretorio - Remover Arquivo
+GIT LOG - Visualizar Histórico
 
+
+Link Útil
+[Comandos Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
