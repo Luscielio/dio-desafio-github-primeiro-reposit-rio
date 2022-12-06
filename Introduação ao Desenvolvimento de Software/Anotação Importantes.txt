@@ -1,4 +1,11 @@
-UX DESING - Responsável por pesquisar e criar o prototipo de acordo com o público alvo daquele programa
-UI DESING - Responsável por desenhar o Layout, cores e tipográfia do programa.
-FRONT END - Responsável por desenvolver a interface gráfica por meio de códigos ou seja, a parte visual do app
-EX: de programas utilizados pelo Frontend: JAVASCRIP, HTML e CSS)
+*UX DESING* - Responsável por pesquisar e criar o prototipo de acordo com o público alvo daquele programa
+*UI DESING* - Responsável por desenhar o Layout, cores e tipográfia do programa.
+*FRONT END* - Responsável por desenvolver a interface gráfica por meio de códigos ou seja, a parte visual do app
+EX: de programas utilizados pelo Frontend: JAVASCRIP, HTML e CSS
+*FRAMEWORKS* - Ele traz diversas soluções já pré-definidas, que descomplicam o trabalho dos profissionais no desenvolvimento de aplicativos e outros projetos digitais.
+EX: Angular,Laravel e VUE
+O modelo cliente-servidor é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores de um recurso ou serviço, designados como servidores, e os requerentes dos serviços, designados como clientes.
+*BACK END* - trabalha em boa parte dos casos fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa, sempre aplicando as devidas regras de negócio, validações e garantias em um ambiente onde o usuário final não tenha acesso e possa manipular algo.
+EX: de programas utilizados pelo Backend: JAVA, C# e PHP
+*FULLSTACK* - trabalha com o Back End do aplicativo, bem como o Front End. Desenvolvedores Full Stack precisam ter algumas habilidades em uma ampla variedade de linguagens de programação.
+*CLOUD COMPUTING* - Responsável pela infraestrutura de nuvem oferecida aos clientes. Mais do que desenhar sistemas ou ambientes de TI, ele escolhe as tecnologias que serão usadas, quais operadores são mais interessantes, como as peças vão ser integradas e, no fim, cuida do que foi construído.
