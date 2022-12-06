@@ -1,0 +1,13 @@
+4 Pilares do Pensamento Computacional:
+ • Decomposição - Dividir um problema complexo em subproblemas
+ • Reconhecimento de padrões - Identificar padrões ou tendências
+ • Abstração - Extrapolar o conceito do problema para um forma generalista
+ • Desing de algoritmos - Definir passo a passo a solução do problema.
+Habilidades:
+Raciocinio Lógico - é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.
+EX: Indução, Dedução e Abdução.
+Aperfeiçoamento: 
+• Encontrar solução eficiente
+• Otimizar processos
+• Simplificar linhas de códigos
+• Funções bem definidas
